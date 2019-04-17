@@ -33,10 +33,4 @@ case 17 : return(You are a teenager);
 case 18 : return(You are a teenager);
 case 19 : return(You are a teenager);
   break;return(You have an age);
-  break;
-  break;
-  break;
-break;
-default: return(You have an age)
-  break;
 }
